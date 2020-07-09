@@ -1,4 +1,4 @@
-def prime?(i)
+def prime?(num)
   if
   num % i == 0
   i = true 

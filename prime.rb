@@ -12,5 +12,7 @@ end
 
 def prime?(num)
   return false if !number.integer
-  return false if num < 2
+  return false if num < 2 
+  return true if num == 2 
+  
 end 

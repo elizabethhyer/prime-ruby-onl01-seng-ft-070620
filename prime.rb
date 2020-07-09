@@ -3,6 +3,7 @@ def prime?(i)
   i % n == 0
   i = true 
     else 
-    return false if num < 2
+     num < 2 
+     return false
   end 
 end 

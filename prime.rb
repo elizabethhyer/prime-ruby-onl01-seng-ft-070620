@@ -6,5 +6,3 @@ def prime?(num)
   true
 end 
 
-puts prime?(2)
-puts prime(22)
